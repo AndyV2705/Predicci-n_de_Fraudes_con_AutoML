@@ -46,6 +46,16 @@ Este proyecto no se limita al rendimiento estadístico. Fue diseñado para:
 
 - ✅ Aportar insights accionables para áreas de **riesgo y prevención**.
 
+## 🧠 **Comparación con Enfoques Tradicionales**
+
+| **Enfoque Tradicional**                   | **Este Modelo Personalizado**            |
+|-------------------------------------------|-----------------------------------------|
+| Usa umbral genérico (0.5)                 | Usa umbral ajustado por utilidad        |
+| Optimiza métricas de evaluación           | Optimiza la rentabilidad del negocio    |
+| Utiliza métricas técnicas                 | Decisiones con valor financiero         |
+| Misma lógica para todos                   | Adaptado a cada cliente                 |
+
+
 
 #### 👨‍💻 Desarrollado por:
 **Andy – Científico de Datos**
