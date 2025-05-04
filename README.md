@@ -68,5 +68,5 @@ Apasionado por construir soluciones de Machine Learning y Deep Learning, enfocad
 
 Puedes visualizar este notebook directamente en GitHub o hacer clic en el siguiente botón para abrirlo en Google Colab y ejecutarlo:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndyV2705/Prediccion_de_Fraudes_con_AutoML/blob/main/prediccion_de_fraude_con_TPOT.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zmu6ecHA4hLD3bvmpx4wEjjW9GBlNM13/view?usp=drive_link)
 
