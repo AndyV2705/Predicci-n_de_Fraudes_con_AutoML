@@ -70,3 +70,7 @@ Puedes visualizar este notebook directamente en GitHub o hacer clic en el siguie
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zmu6ecHA4hLD3bvmpx4wEjjW9GBlNM13/view?usp=drive_link)
 
+**Si desea correr el código debe instalar estas dependencias dentro de Google Colab**:
+
+!pip install numpy==1.23.5 scikit-learn==1.1.3 xgboost==1.7.3 tpot==0.11.7
+
