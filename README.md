@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-https://drive.google.com/file/d/1zmu6ecHA4hLD3bvmpx4wEjjW9GBlNM13/view?usp=drive_link
 Este proyecto presenta un modelo para la detección de fraude crediticio **100% personalizado**, diseñado con un enfoque estratégico para resolver problemas reales de negocio.
 
 Desarrollado con **AutoML** (TPOT) y enfocada en **maximizar la utilidad económica de una institución financiera**, creando un Modelo personalizado basado en los Costos y Beneficios del cliente. 
@@ -64,3 +63,10 @@ Apasionado por construir soluciones de Machine Learning y Deep Learning, enfocad
 🔗 Conecta conmigo en LinkedIn: www.linkedin.com/in/andybussines
 
 #### 📬 ¿Te interesa implementar una solución similar en tu organización? ¡Hablemos!
+
+### 🚀 Ejecutar en Google Colab
+
+Puedes visualizar este notebook directamente en GitHub o hacer clic en el siguiente botón para abrirlo en Google Colab y ejecutarlo:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndyV2705/Prediccion_de_Fraudes_con_AutoML/blob/main/prediccion_de_fraude_con_TPOT.ipynb)
+
